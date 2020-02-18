@@ -16,3 +16,6 @@
 2. [VSR_2_2](https://github.com/Kirillakrill/Kirill/blob/master/VSR_2_2.pdf)
 3. [VSR_2_3](https://github.com/Kirillakrill/Kirill/blob/master/VSR_2_3.pdf)
 4.
+# Задание по сайту кафедры
+1. [Intelekt_karta_saita](https://github.com/Kirillakrill/Kirill/blob/master/Intelekt_karta_kafedra.pdf)
+2. [Stranica_saita]()
