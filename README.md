@@ -8,7 +8,7 @@
 7. [ISR_1_6](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_6.pdf)
 8. [ISR_1_7](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_7.pdf)
 9. [ISR_1_8](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_8.pdf)
-10.[ISR_1_9](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_9.pdf)
+10. [ISR_1_9](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_9.pdf)
 11.
 12.
 # ВСР
