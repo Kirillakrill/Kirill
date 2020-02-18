@@ -9,10 +9,10 @@
 8. [ISR_1_7](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_7.pdf)
 9. [ISR_1_8](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_8.pdf)
 10. [ISR_1_9](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_9.pdf)
-11.
-12.
+11. [ISR_1_10](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_10.pdf)
+12. [ISR_1_11](https://github.com/Kirillakrill/Kirill/blob/master/ISR_1_11.png)
 # ВСР
 1. [VSR_2_1](https://github.com/Kirillakrill/Kirill/blob/master/VSR_2_1.png)
 2. [VSR_2_2](https://github.com/Kirillakrill/Kirill/blob/master/VSR_2_2.pdf)
-3.
+3. [VSR_2_3](https://github.com/Kirillakrill/Kirill/blob/master/VSR_2_3.pdf)
 4.
